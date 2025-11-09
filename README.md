@@ -170,14 +170,3 @@ sudo rm -rf /etc/openvpn /root/client-configs
     Works best on Ubuntu 20.04, 22.04, or 24.04
 
     Compatible with Windows, macOS, Linux, iOS, Android clients
-
-📜 License
-
-MIT License
-Copyright © 2025
-
-You are free to use, modify, and distribute this code with attribution.
-💬 Author
-
-Amir Moradi
-💻 DevOps & Network Engineer
