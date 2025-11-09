@@ -139,9 +139,6 @@ sudo bash openvpn_bootstrap_tlscrypt.sh --client mylaptop --proto tcp --port 844
       └── pki/...
 
 /root/client-configs/
- ├── client1-tcp8443.ovpn
- ├── phone-tcp8443.ovpn
- └── laptop-tcp8443.ovpn
 
 📋 Example Output
 
@@ -152,7 +149,7 @@ sudo bash openvpn_bootstrap_tlscrypt.sh --client mylaptop --proto tcp --port 844
 [OK] Done.
 Client file: /root/client-configs/mylaptop-tcp8443.ovpn
 Download with:
-  scp root@130.185.121.198:/root/client-configs/mylaptop-tcp8443.ovpn .
+  scp root@***************:/root/client-configs/config.ovpn .
 
 🧹 Uninstall (Optional)
 
